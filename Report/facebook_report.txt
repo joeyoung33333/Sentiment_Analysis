@@ -1,0 +1,79 @@
+Facebook
+Dates: 05/1/2018 to 05/11/2018
+
+Month: 05, Day: 1, Year: 2018
+Results: Positive Sentiment. Stock prices will increase.
+Lexicon     - POS: 61,	NEG: 39,	NEUT: 0
+Naive Bayes - POS: 49,	NEG: 51,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 2, Year: 2018
+Results: Positive Sentiment. Stock prices will increase.
+Lexicon     - POS: 70,	NEG: 30,	NEUT: 0
+Naive Bayes - POS: 54,	NEG: 46,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 3, Year: 2018
+Results: Positive Sentiment. Stock prices will increase.
+Lexicon     - POS: 53,	NEG: 47,	NEUT: 0
+Naive Bayes - POS: 61,	NEG: 39,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 4, Year: 2018
+Results: Positive Sentiment. Stock prices will increase.
+Lexicon     - POS: 59,	NEG: 41,	NEUT: 0
+Naive Bayes - POS: 56,	NEG: 44,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 5, Year: 2018
+Results: Insufficient Information (Not Enough Articles). Can not make suggestion.
+Lexicon     - POS: 42,	NEG: 22,	NEUT: 0
+Naive Bayes - POS: 33,	NEG: 31,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 6, Year: 2018
+Results: Insufficient Information (Not Enough Articles). Can not make suggestion.
+Lexicon     - POS: 36,	NEG: 28,	NEUT: 0
+Naive Bayes - POS: 32,	NEG: 32,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 7, Year: 2018
+Results: Positive Sentiment. Stock prices will increase.
+Lexicon     - POS: 61,	NEG: 39,	NEUT: 0
+Naive Bayes - POS: 59,	NEG: 41,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 8, Year: 2018
+Results: Positive Sentiment. Stock prices will increase.
+Lexicon     - POS: 59,	NEG: 41,	NEUT: 0
+Naive Bayes - POS: 58,	NEG: 42,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 9, Year: 2018
+Results: Insufficient Information (Positive not 20% Greater). Can not make suggestion.
+Lexicon     - POS: 54,	NEG: 46,	NEUT: 0
+Naive Bayes - POS: 52,	NEG: 48,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 10, Year: 2018
+Results: Positive Sentiment. Stock prices will increase.
+Lexicon     - POS: 60,	NEG: 40,	NEUT: 0
+Naive Bayes - POS: 54,	NEG: 46,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 11, Year: 2018
+Results: Insufficient Information (Positive not 20% Greater). Can not make suggestion.
+Lexicon     - POS: 57,	NEG: 43,	NEUT: 0
+Naive Bayes - POS: 52,	NEG: 48,	NEUT: 0
+
+______________________________________________________

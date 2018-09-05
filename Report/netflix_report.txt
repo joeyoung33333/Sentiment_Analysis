@@ -1,0 +1,79 @@
+Netflix
+Dates: 05/1/2018 to 05/11/2018
+
+Month: 05, Day: 1, Year: 2018
+Results: Insufficient Information (Not Enough Articles). Can not make suggestion.
+Lexicon     - POS: 30,	NEG: 21,	NEUT: 0
+Naive Bayes - POS: 28,	NEG: 23,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 2, Year: 2018
+Results: Insufficient Information (Not Enough Articles). Can not make suggestion.
+Lexicon     - POS: 21,	NEG: 11,	NEUT: 0
+Naive Bayes - POS: 17,	NEG: 15,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 3, Year: 2018
+Results: Insufficient Information (Not Enough Articles). Can not make suggestion.
+Lexicon     - POS: 19,	NEG: 11,	NEUT: 0
+Naive Bayes - POS: 18,	NEG: 12,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 4, Year: 2018
+Results: Insufficient Information (Not Enough Articles). Can not make suggestion.
+Lexicon     - POS: 20,	NEG: 14,	NEUT: 0
+Naive Bayes - POS: 19,	NEG: 15,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 5, Year: 2018
+Results: Insufficient Information (Not Enough Articles). Can not make suggestion.
+Lexicon     - POS: 6,	NEG: 1,	NEUT: 0
+Naive Bayes - POS: 3,	NEG: 4,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 6, Year: 2018
+Results: Insufficient Information (Not Enough Articles). Can not make suggestion.
+Lexicon     - POS: 8,	NEG: 4,	NEUT: 0
+Naive Bayes - POS: 6,	NEG: 6,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 7, Year: 2018
+Results: Insufficient Information (Not Enough Articles). Can not make suggestion.
+Lexicon     - POS: 25,	NEG: 7,	NEUT: 0
+Naive Bayes - POS: 17,	NEG: 15,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 8, Year: 2018
+Results: Insufficient Information (Not Enough Articles). Can not make suggestion.
+Lexicon     - POS: 29,	NEG: 11,	NEUT: 0
+Naive Bayes - POS: 24,	NEG: 16,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 9, Year: 2018
+Results: Insufficient Information (Not Enough Articles). Can not make suggestion.
+Lexicon     - POS: 23,	NEG: 11,	NEUT: 0
+Naive Bayes - POS: 25,	NEG: 9,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 10, Year: 2018
+Results: Insufficient Information (Not Enough Articles). Can not make suggestion.
+Lexicon     - POS: 13,	NEG: 11,	NEUT: 0
+Naive Bayes - POS: 10,	NEG: 14,	NEUT: 0
+
+______________________________________________________
+
+Month: 05, Day: 11, Year: 2018
+Results: Insufficient Information (Not Enough Articles). Can not make suggestion.
+Lexicon     - POS: 21,	NEG: 12,	NEUT: 0
+Naive Bayes - POS: 19,	NEG: 14,	NEUT: 0
+
+______________________________________________________
